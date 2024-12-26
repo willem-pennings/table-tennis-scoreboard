@@ -1,0 +1,31 @@
+{
+    "tabs": {
+        "vwidth": "5mm",
+        "hwidth": "5mm",
+        "spacing": "50mm"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "offset": "0.2mm",
+        "prolong": "0.5mm"
+    },
+    "framing": {
+        "type": "railstb",
+        "width": "8mm"
+    },
+    "tooling": {
+        "type": "3hole",
+        "hoffset": "5mm",
+        "voffset": "4mm",
+        "size": "1.152mm"
+    },
+    "fiducials": {
+        "type": "4fid",
+        "hoffset": "10mm",
+        "voffset": "4mm",
+        "opening": "2mm"
+    },
+    "post": {
+        "millradius": "1mm"
+    }
+}
