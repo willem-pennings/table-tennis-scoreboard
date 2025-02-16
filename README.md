@@ -1,5 +1,5 @@
 # Table tennis scoreboard
-Hardware and software design for an electronic table tennis score board
+Hardware and software design for an electronic table tennis score board.
 
 ![table tennis gameplay using the electronic scoreboard](media/gameplay.jpg)
 
